@@ -1,0 +1,18 @@
+@import url("color.css");
+@import url("typography.css");
+
+* {
+	font-size: 16px;
+}
+
+body {
+	background-color: var(--violet);
+}
+
+.attribution {
+	font-size: 1rem;
+	text-align: center;
+}
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
