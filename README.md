@@ -30,13 +30,18 @@ Users should be able to:
 
 ### Screenshot
 
+Mobile preview
+
+![Mobile preview](/app/finished-project-preview/mobile-preview.png)
+
 Desktop preview
 
 ![Desktop preview](/app/finished-project-preview/desktop-preview.png)
 
-Mobile preview
+Hover preview
 
-![Mobile preview](/app/finished-project-preview/mobile-preview.png)
+![Button preview](/app/finished-project-preview/desktop-button-hover-preview.png)
+![Social media preview](/app/finished-project-preview/desktop-social-media-hover-preview.png)
 
 ### Links
 
