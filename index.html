@@ -19,12 +19,21 @@
 
     <title>Frontend Mentor | Huddle landing page with single introductory section</title>
 </head>
+<style>
+    body {
+        @media (width > 375px) {
+            background-image: url("./images/bg-desktop.svg");
+        }
+    }
 
-<body style="@media (width > 375px ) {
-  background-image: url(./images/bg-desktop.svg);
-}; @media (width <= 375px) {
-    background-image: url(./images/bg-mobile.svg);
-}">
+    body {
+        @media (width <=375px) {
+            background-image: url("./images/bg-mobile.svg");
+        }
+    }
+</style>
+
+<body>
     <div class="container">
         <div class="images">
             <img src="./images/logo.svg" alt="logo    ">
