@@ -45,8 +45,8 @@ Hover preview
 
 ### Links
 
--   Solution URL: [Frontend Mentor]()
--   Live Site URL: [Github pages]()
+-   Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-8Kg_AU4_8_)
+-   Live Site URL: [Github pages](https://clar-junior.github.io/Huddle-landing-page-with-a-single-introductory-section/)
 
 ## My process
 
