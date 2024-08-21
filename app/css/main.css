@@ -1,5 +1,5 @@
-@import url("color.css");
-@import url("typography.css");
+@import url("./color.css");
+@import url("./typography.css");
 
 * {
 	box-sizing: border-box;
